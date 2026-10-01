@@ -31,5 +31,11 @@ An offline-first platform designed to support dementia care in remote regions.
 - Prepare for software development placements
 
 ## 📫 Connect With Me
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Khushi Singh](https://www.linkedin.com/in/khushi-singh-086533374/)
+- 🐙 GitHub: [Khushi29singh](https://github.com/Khushi29singh)
+
+I'm currently learning, building, and improving one project at a time. 🚀
 
 I'm currently learning, building, and improving one project at a time. 🚀
